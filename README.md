@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Choosing Cron or Queues for Per-Event Webhooks and Long-Running Jobs](posts/choosing-cron-or-queues-for-per-event-webhooks-and-long-running-jobs.md)
 - [Node.js Batch Summarization API Example: Async Jobs for Multiple Documents](posts/node-js-batch-summarization-api-example-async-jobs-for-multiple-document.md)
 - [Self-Hosted Metabase, Redash, Supabase Charts, or Metrics APIs for SaaS KPI Dashboards](posts/self-hosted-metabase-redash-supabase-charts-or-metrics-apis-for-saas-kpi.md)
 - [Cheapest way to run expired session cleanup on a cron and a public HTTP endpoint](posts/cheapest-way-to-run-expired-session-cleanup-on-a-cron-and-a-public-http.md)
